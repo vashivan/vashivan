@@ -2,7 +2,9 @@
 
 
 
- 🌱 I’m currently learning <img src="https://icons8.com/icon/t4YbEbA834uH/react-native">
+ 🌱 I’m currently learning [image](https://github.com/vashivan/vashivan/assets/123917348/478d28ff-52b8-42c0-8cbf-567162afa996)
+
+">
 <!--
 **vashivan/vashivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
