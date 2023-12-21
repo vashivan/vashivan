@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, I am a beginner front-end developer.
 
- 🌱 I’m currently learning <img src="https://icons8.com/icon/t5K2CR8feVdX/react">
+
+
+ 🌱 I’m currently learning <img src="https://icons8.com/icon/t4YbEbA834uH/react-native">
 <!--
 **vashivan/vashivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
