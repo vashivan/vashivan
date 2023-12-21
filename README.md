@@ -2,7 +2,7 @@ v### Hi there, I am a beginner front-end developer.
 
 
 
- 🌱 I’m currently learning <svg id="Layer_2" style="enable-background:new 0 0 600 600;" version="1.1" viewBox="0 0 600 600" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"></svg>
+ 🌱 I’m currently learning [url=https://logowik.com/react-icon-54421.html][img]https://logowik.com/content/uploads/images/react7473.logowik.com.webp[/img][/url]
 <!--
 **vashivan/vashivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
