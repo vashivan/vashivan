@@ -1,5 +1,4 @@
 ### Hi there 👋
-🌱 I’m currently learning img:url(https://icons8.com/icon/NfbyHexzVEDk/react)
 <!--
 **vashivan/vashivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
