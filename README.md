@@ -2,7 +2,7 @@ v### Hi there, I am a beginner front-end developer.
 
 
 
- 🌱 I’m currently learning [url=https://logowik.com/react-icon-54421.html][img]https://logowik.com/content/uploads/images/react7473.logowik.com.webp[/img][/url]
+ 🌱 I’m currently learning [img](https://logowik.com/content/uploads/images/react7473.logowik.com.webp)
 <!--
 **vashivan/vashivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
