@@ -1,4 +1,4 @@
-## Hi there, I am a beginner front-end developer.
+## Hi there, I am trainee front-end developer.
 
 <!--
 **vashivan/vashivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
