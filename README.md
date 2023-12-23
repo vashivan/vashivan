@@ -1,5 +1,7 @@
 ## Hi there, I am trainee front-end developer.
 
+[![My GitHub status](https://github-readme-stats.vercel.app/api?username=vashivan)](https://github.com/vashivan/github-readme-stats)
+
 <!--
 **vashivan/vashivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
